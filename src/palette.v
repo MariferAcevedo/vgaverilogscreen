@@ -6,7 +6,7 @@
 
 `default_nettype none
 
-module palette (
+module tt_um_MariferAcevedo_vgaverilogscreen (
     input  wire [2:0] color_index,
     output wire [5:0] rrggbb
 );
