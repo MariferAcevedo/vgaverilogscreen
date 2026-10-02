@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It is a code that describes the movement of a logo, the palette and other parameters related with the image to generate a VGA image.
 
 ## How to test
 
-Explain how to use your project
+We have two dedicated inputs and three bidirectional pins, the user can define the RGB combination. Bouncing logic is already defined.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+RGB LED display and dip switch
